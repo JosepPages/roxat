@@ -1,1 +1,1 @@
-Este proyecto es para ROXAT 365 como extensión
+Este repositorio es para ROXAT 365 como extensión
